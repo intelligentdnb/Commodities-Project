@@ -1,4 +1,4 @@
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
+<img align="center" src="./client/src/Img/coverImageName.png alt="intelligentdnb" />
 
 # Grupal Project - B2B Commodities 
 
