@@ -1,6 +1,6 @@
 ![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
 
-# Grupal Project - B2B Commodities
+# Grupal Project - B2B Commodities 
 
 <p align="center">
   <img height="200" src="./client/src/Img/LogoB2B.png" />
@@ -19,6 +19,27 @@ Each membership has its particular benefits.
 International trade is handled between contracts through
 intermediaries, where the page is reserved solely for providing information on
 the parts.
+<a href="https://dev-commodities.vercel.app/" alt="B2B Commodities"> B2B Commodities </a>
+
+
+## Tecnologies 
+
+#### Front-End
+- [ ] React
+- [ ] Redux ToolKit
+- [ ] CSS, Bootstrap
+- [ ] React Paylpal Js
+- [ ] React Google Maps API
+- [ ] React Select
+- [ ] Cloudinary-Core
+- [ ] Auth0
+- [ ] Formik
+#### Back-End
+- [ ] NodeJS
+- [ ] Express
+- [ ] Sequelize
+- [ ] NodeMailer
+- [ ] PostgreSQL
 
 ## Students in the project
 
