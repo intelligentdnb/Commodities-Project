@@ -8,17 +8,12 @@
 
 ## Idea of the project
 
-Online B2B forum (Business to Business) for importers/exporters
-International Commodities. Users generate “posts”
-where they can offer/find products. The idea of the forum is to facilitate
-contact between buyers and sellers about the specified product,
-provide seller/buyer information through your membership
-as a user (Free, Basic, Premium).
-Users can be both buyers and sellers.
-Each membership has its particular benefits.
-International trade is handled between contracts through
-intermediaries, where the page is reserved solely for providing information on
-the parts.
+It was designed and developed as a business to business service for importers & exporters of International Commodities with a login, bookmarks, user profile, administrator profile and a payment gateaway with Paypal. It is ment to be a grupal simulation of real codding experience with regular SCRUM meetins and a common repository where we all pushed our code, as part of Henry's bootcamp. In this proyect I worked mainly as a back-end developer and ended up coding a few front-end components such as Memberships and DataBase leader, and we use the following tecnologies:
+
+How the page works:
+Upon loggin in or registering, users can create a post offering/searching certain types of commodities. Users who wants to have access to the contact information of another user, they can do that by acquiring a membership. Anyone can save posts as favorites and once logged in this favorites can be accesed by going to the profile button (if the user already had favorites, this new ones will be attached to the old ones). Users are able to send a review and giving a score to another user as long as they already made contact. This reviews can be reported if the user finds them offensive. The page has an administrator panel where a special user (admin), can hide reported posts, ban users, modify memberships or create new ones with certain benefits.
+
+
 <a href="https://dev-commodities.vercel.app/" alt="B2B Commodities"> B2B Commodities </a>
 
 
