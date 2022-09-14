@@ -1,4 +1,4 @@
-<img align="center" src="./client/src/Img/coverImageName.png alt="intelligentdnb" />
+<img align="center" src="./client/src/Img/coverImageName.png" alt="intelligentdnb" />
 
 # Grupal Project - B2B Commodities 
 
