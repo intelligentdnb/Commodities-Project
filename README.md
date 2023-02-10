@@ -36,6 +36,13 @@ Upon loggin in or registering, users can create a post offering/searching certai
 - [ ] NodeMailer
 - [ ] PostgreSQL
 
+![PF1](https://user-images.githubusercontent.com/103137619/190065963-cb254b6c-849e-489e-98e1-3f6dd483772b.png)
+![PF2](https://user-images.githubusercontent.com/103137619/190065964-b00f2b80-b348-4065-8499-9627fefaa7ac.png)
+![pf3](https://user-images.githubusercontent.com/103137619/190065966-e497d529-ce93-43bb-865d-67cf1c2209f8.png)
+![pf4](https://user-images.githubusercontent.com/103137619/190065968-322a2155-6c7d-42a0-960a-245d19e5ec6c.png)
+![pf5](https://user-images.githubusercontent.com/103137619/190065958-e2cf6033-9ebb-485c-abe8-d2e9913fa8c3.png)
+![pf6](https://user-images.githubusercontent.com/103137619/190065961-13f1bb8d-b9b5-42ea-9997-3c3e20b207a3.png)
+
 ## Students in the project
 
 - Cesar Herbert Jelvez                  || GitHub: https://github.com/CesarJelvez
